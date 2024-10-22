@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Left Border
+  - Right Border
+  - Bottom Border
+  - Enemy
+  - Powerup
+  - Enemy Projectile
+  - Platform
+  - Life
+  - Sword
+  - Arrow
+  - SwordBuff
+  - ArrowBuff
+  - Spike
+  - PLB
+  - PRB
+  - ShieldPlatform
+  - PBB
+  - PUB
+  - MovingBorder
+  - JumpBorder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - Weapon
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

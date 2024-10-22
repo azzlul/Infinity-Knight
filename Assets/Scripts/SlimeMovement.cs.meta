@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4411f4e8a6a472e4a8ca2cc398629311
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flashMaterial: {instanceID: 0}
+  - initialMaterial: {instanceID: 0}
+  - slimeAnimator: {instanceID: 0}
+  - mediumMaterial: {instanceID: 0}
+  - hardMaterial: {instanceID: 0}
+  - attackMaterial: {fileID: 2100000, guid: 481c822ed030ea64d9ba5f705c002520, type: 2}
+  - projectile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
